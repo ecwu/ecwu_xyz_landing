@@ -61,6 +61,7 @@ theme = "hugo-theme-shell"
     ["main_site(blog)", "https://ecwuuuuu.com/"],
     ["photos", "https://foto.ecwuuuuu.com/"],
     ["vaultwarden", "https://k.ecwu.xyz/"],
+    ["TTRSS", "https://rss.ecwu.xyz"]
     ["instagram", "https://www.instagram.com/ecwuuuuu/"],
     ["github", "https://github.com/ecwu/"],
     ["linkedin", "https://www.linkedin.com/in/zhenghaowu/"],
